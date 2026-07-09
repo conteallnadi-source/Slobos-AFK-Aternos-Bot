@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "serveralaghniae.aternos.me:15010",
-    "port": 27586,
+    "port": 15010,
     "version": "",
     "try-creative": false
   },
