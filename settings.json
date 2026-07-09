@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "serveralaghniae.aternos.me:15010",
     "port": 27586,
     "version": "",
     "try-creative": false
